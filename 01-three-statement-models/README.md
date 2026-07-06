@@ -10,5 +10,4 @@
 - Balance sheet check row confirms Assets = Liabilities across all forecast years
 
 ## Files
-- `Titan-3-Statement-Model.xlsx` — downloadable Excel version
 - [Live Google Sheets version]()https://docs.google.com/spreadsheets/d/1K8gglweIDIFXBMY-BTS6LlskBQ2VSaEB-GVFH7mIKYY/edit?usp=sharing
