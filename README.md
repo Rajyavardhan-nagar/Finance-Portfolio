@@ -1,4 +1,4 @@
-# Finance Portfolio — Raj
+# Finance Portfolio - Rajyavardhan Nagar
 
 A public collection of financial models and valuations covering Investment Banking, Equity Research, Private Equity/VC, and Corporate Finance.
 
