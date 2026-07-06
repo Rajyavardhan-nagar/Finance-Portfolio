@@ -10,4 +10,4 @@
 - Balance sheet check row confirms Assets = Liabilities across all forecast years
 
 ## Files
-- [Live Google Sheets version]()https://docs.google.com/spreadsheets/d/1K8gglweIDIFXBMY-BTS6LlskBQ2VSaEB-GVFH7mIKYY/edit?usp=sharing
+[Spreadsheet link] https://docs.google.com/spreadsheets/d/1K8gglweIDIFXBMY-BTS6LlskBQ2VSaEB-GVFH7mIKYY/edit?usp=sharing
